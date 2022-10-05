@@ -59,7 +59,7 @@ p {
 }
 
 .menu a:hover {
-  border-color: #e21;
+  border-color: var(--cor-primaria);
 }
 
 .conteudo {
@@ -87,7 +87,7 @@ p {
   content: "";
   width: 60px;
   height: 4px;
-  background: #e21;
+  background: var(--cor-primaria);
   position: absolute;
   top: 30px;
   right: -30px;
@@ -99,7 +99,7 @@ p {
 }
 
 .botao {
-  background: #e21;
+  background: var(--cor-primaria);
   color: #fff;
   padding: 1rem 2rem;
   border-radius: 4px;
@@ -107,7 +107,7 @@ p {
 }
 
 .botao:hover {
-  background: #900;
+  background: var(--cor-primaria-escura);
 }
 
 .subtitulo {
@@ -139,7 +139,7 @@ p {
 }
 
 .vantagens-item:hover {
-  border-color: #e21;
+  border-color: var(--cor-primaria);
 }
 
 .vantagens-item p {
