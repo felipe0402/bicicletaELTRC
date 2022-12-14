@@ -81,6 +81,7 @@ p {
 
 .menu a:hover {
   border-color: var(--cor-primaria);
+  cursor: pointer;
 }
 
 .conteudo {
@@ -129,6 +130,7 @@ p {
 
 .botao:hover {
   background: var(--cor-primaria-escura);
+  cursor: pointer;
 }
 
 .subtitulo {
